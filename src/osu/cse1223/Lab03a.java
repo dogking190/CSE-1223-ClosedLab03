@@ -1,8 +1,8 @@
 /*
  * Lab03a.java
  * take two input numbers and compares which one is bigger
- * 
- * @author Paul M Onderisin
+ *
+ * @author Paul M. Onderisin
  * @version 1.0.0
  */
 package osu.cse1223;

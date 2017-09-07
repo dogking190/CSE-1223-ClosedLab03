@@ -2,7 +2,7 @@
  * Lab03b.java
  * compares two strings then places them in alphabetical order
  * 
- * @author Paul M Onderisin
+ * @author Paul M. Onderisin
  * @version 1.0.0
  */
 
